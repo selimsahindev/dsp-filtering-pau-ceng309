@@ -1,4 +1,4 @@
-## PAU - CENG309 İşaret İşleme Bonus Ödevi
+# PAU - CENG309 İşaret İşleme Bonus Ödevi
 
 Python kodunu çalıştırdığımızda audio klasöründeki SampleAudio.mp3 isimli ses
 dosyasına sabit bir ses frekans noktasında low-pass ve high-pass filtreleri
@@ -11,4 +11,4 @@ filtreler uygulanmış hallerini gösteren tablolar ekrana çizdirilir.
 Çeşitli audio spectrum görsellerini de ekledim. ~4.7kHz noktasından
 başlayan frekans eksilmelerini rahatlıkla kıyaslayabilirsiniz.
 
-SELİM ŞAHİN
+[selimsahindev](https://github.com/selimsahindev)
